@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&family=Playfair+Display&display=swap");
+.container {
+  width: 1200px;
+}
+
+img {
+  width: 84px;
+  height: 84px;
+  margin-bottom: 14px;
+}
+
+h3 {
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 36px;
+  /* identical to box height, or 140% */
+  letter-spacing: 0.312px;
+  color: #141414;
+  margin-bottom: 11px;
+}
+
+p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* or 150% */
+  color: #555555;
+}
+
+.benefits-wrapper {
+  font-weight: 400;
+}
+.benefits-wrapper_title {
+  text-align: center;
+  margin-top: 99.87px;
+  margin-bottom: 70px;
+}
+.benefits-wrapper_title-upper {
+  font-family: "Manrope";
+  font-size: 18px;
+  line-height: 27px;
+  color: #5C8692;
+}
+.benefits-wrapper_title-down {
+  font-family: "Playfair Display";
+  font-size: 45px;
+  line-height: 58px;
+  letter-spacing: 0.45px;
+}
+.benefits-wrapper_items {
+  margin-bottom: 40px;
+}
